@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_bottom.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\menu\\navigation_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_still_image_menu.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\menu\\still_image_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stop.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_vision_camerax_live_preview.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout-land\\activity_vision_camerax_live_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\menu\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chooser.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_style.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\settings_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_statistics.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preference_still_image.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\xml\\preference_still_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vision_live_preview.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-hdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_camera_button_menu.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\menu\\camera_button_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_submain.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_submain.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vision_entry_choice.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_vision_entry_choice.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-hdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_vision_live_preview.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout-land\\activity_vision_live_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\header_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_loading_logo.PNG.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\loading_logo.PNG"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_menu.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_still_image.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_still_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vision_camerax_live_preview.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_vision_camerax_live_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_background.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable\\list_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_transparent.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\background_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings_white_24dp.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_toggle_style.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\toggle_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_squat.mp4.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\raw\\squat.mp4"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_switch_camera_white_48dp_inset.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nav.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_mlkit.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable\\logo_mlkit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-hdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_style.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\spinner_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_switch_camera_white_48dp.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_switch_camera_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_live_preview_menu.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\menu\\live_preview_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_preference_live_preview_quickstart.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\xml\\preference_live_preview_quickstart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_switch_camera_white_48dp_inset.png.flat",
+        "source": "C:\\Users\\ms\\AndroidStudioProjects\\ML Kit Vision Quickstart\\PoseDetect-master\\app\\src\\main\\res\\drawable-mdpi\\ic_switch_camera_white_48dp_inset.png"
+    }
+]
